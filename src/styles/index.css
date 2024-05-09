@@ -1,4 +1,22 @@
 
+
+.bigCounter{
+    display:flex;
+    color: white;
+    justify-content: center;
+    background: black;
+    border-radius: 10px;
+    gap: 10px;
+};
+
+#numbersStyle div {
+    display: inline-block;
+    font-size: 100px;
+    line-height: 20px;
+    height: 20px;
+    background: red;
+    padding: 20px;
+};
 /* 
 
     You can write your own styles here...
